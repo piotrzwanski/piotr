@@ -1,1 +1,3 @@
 kolega z ³awki pracowniczej :D21212
+poprawka algoryttmu w tym pliku,
+dodajê sobie plik jesiotr.txt z wymiarem rybki
